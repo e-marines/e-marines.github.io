@@ -1,7 +1,8 @@
 ---
 title: eMarines Studios/Games
-[Home](./index.md)
 ---
+
+[Home](./index.md)
 
 # Games
 
