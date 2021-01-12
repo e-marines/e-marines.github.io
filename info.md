@@ -1,5 +1,6 @@
 ---
 title: eMarines Studios/Info
+[Home](./index.md)
 ---
 
 # Who we are
