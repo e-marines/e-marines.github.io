@@ -1,7 +1,8 @@
 ---
 title: eMarines Studios
-[Home](./index.md)
 ---
+
+* [Home](./index.md)
 
 * [Info](./info.md)
 
