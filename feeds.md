@@ -1,7 +1,8 @@
 ---
 title: eMarines Studios/Feeds
-[Home](./index.md)
 ---
+
+[Home](./index.md)
 
 # Feeds
 
