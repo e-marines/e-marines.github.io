@@ -1,7 +1,8 @@
 ---
 title: eMarines Studios/Contact
-[Home](./index.md)
 ---
+
+[Home](./index.md)
 
 # Contact
 
