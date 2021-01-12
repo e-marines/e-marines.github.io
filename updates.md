@@ -1,5 +1,6 @@
 ---
 title: eMarines Studios/Updates
+[Home](./index.md)
 ---
 
 # Updates
