@@ -9,7 +9,7 @@ title: eMarines Studios/Games
 ### Super Mario Mixed 
 Super Mario Mixed is a mod of Super Mario Bros. to have Super Mario Bros. 3 graphics.
 
-[Download](./Super Mario Bros Mixed.nes)
+[Download](https://www.mediafire.com/file/nbp8wx5ege7gm06/Super_Mario_Bros_Mixed.nes/file)
 
 
 ### Facade Piss Mod
