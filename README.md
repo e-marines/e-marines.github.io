@@ -1,3 +1,3 @@
-# eMarinesStudios
+# e-marines.github.io
 
-Site of eMarines
+Site of eMarines Studios
