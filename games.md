@@ -2,7 +2,7 @@
 title: eMarines Studios/Games
 ---
 
-[Home](./index.md)
+[Home](./index.md)|
 
 # Games
 
@@ -21,6 +21,6 @@ Facade Piss Mod is a mod of Facade to be stupid.
 
 ### PGBR Gmod Collection
 
-PGBR Gmod Collection is a collection of mods for Gmod centered aroung Peter Griffin
+PGBR Gmod Collection is a collection of mods for Gmod centered around Peter Griffin.
 
 [Download](https://steamworkshopdownloader.io/download/2357829686)
