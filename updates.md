@@ -2,7 +2,7 @@
 title: eMarines Studios/Updates
 ---
 
-|[Home](./index.md)|
+[Home](./index.md)|
 
 # Updates
 
