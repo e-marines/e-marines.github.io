@@ -24,3 +24,10 @@ Facade Piss Mod is a mod of Facade to be stupid.
 PGBR Gmod Collection is a collection of mods for Gmod centered around Peter Griffin.
 
 [Download](https://steamworkshopdownloader.io/download/2357829686)
+
+
+### FNF But Troll
+
+FNF that trolls you.
+
+[Download](http://www.mediafire.com/file/ueg8n3wrjlds6me/friday_night_funey.zip/file)
