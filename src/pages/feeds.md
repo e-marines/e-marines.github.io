@@ -2,7 +2,7 @@
 title: eMarines Studios/Feeds
 ---
 
-[Home](./index.md)|
+[Home](./home.md)|
 
 # Feeds
 

@@ -2,7 +2,7 @@
 title: eMarines Studios/Info
 ---
 
-[Home](./index.md)|
+[Home](./home.md)|
 
 # Info
 
