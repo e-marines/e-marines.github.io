@@ -2,6 +2,6 @@
 title: eMarines Studios
 ---
 
-![Logo](/emarines.png)
+![Logo](./src/assets/emarines.png)
 
-[Home](./index.md) | [Info](./info.md) | [Games](./games.md) | [Contact](./contact.md) | [Feeds](./feeds.md) | [Updates](./updates.md)
+[Home](./src/pages/index.md) | [Info](./src/pages/info.md) | [Games](./src/pages/games.md) | [Contact](./src/pages/contact.md) | [Feeds](./src/pages/feeds.md) | [Updates](./src/pages/updates.md)
