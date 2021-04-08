@@ -31,3 +31,17 @@ PGBR Gmod Collection is a collection of mods for Gmod centered around Peter Grif
 FNF that trolls you.
 
 [Download](http://www.mediafire.com/file/ueg8n3wrjlds6me/friday_night_funey.zip/file)
+
+
+### Survive the Among Us the Killer
+
+Survive the imposter.
+
+[Play on ROBLOX](https://www.roblox.com/games/6650420698/Survive-the-Among-Us-the-Killer)
+
+
+### ORIGINAL Doomspire Brickbattle
+
+From an archive, now directly on ROBLOX.
+
+[Play on ROBLOX](https://www.roblox.com/games/6650910129/ORIGINAL-Doomspire-Brickbattle)
