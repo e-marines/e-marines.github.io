@@ -45,3 +45,11 @@ Survive the imposter.
 From an archive, now directly on ROBLOX.
 
 [Play on ROBLOX](https://www.roblox.com/games/6650910129/ORIGINAL-Doomspire-Brickbattle)
+
+
+
+### PG:BR Official ROBLOX Game
+
+PGBR's official ROBLOX game.
+
+[Play on ROBLOX](https://www.roblox.com/games/6651541185/PG-BR-Official-ROBLOX-Game)
